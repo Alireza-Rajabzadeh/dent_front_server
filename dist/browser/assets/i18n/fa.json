@@ -34,6 +34,7 @@
   "STATUS": "وضعیت سفارش",
   "STAGE": "مرحله سفارش",
   "ESTIMATED_DELIVERY_DATE": "تاریخ حدودی تحویل",
+  "CREATED_DATE": "تاریخ ثبت",
   "DELIVERED_DATE": "تاریخ تحویل",
   "DESCRIPTION": "توضیحات",
   "PLACED_BY": "ثبت کننده سفارش"
